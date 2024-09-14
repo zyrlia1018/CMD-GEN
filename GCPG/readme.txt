@@ -1,4 +1,4 @@
-训练
+
 python train_chembl_baseline.py <output_dir> --show_progressbar
 
 python generate.py data/phar_PARP1.posp gen_result/ result/rs_mapping/fold0_epoch64.pth result/rs_mapping/tokenizer_r_iso.pkl --filter --device cpu
