@@ -1,4 +1,4 @@
-训练
+
 
 python -u train.py --config <config>.yml
 python generate_phars.py ./checkpoints/best-model-epoch\=epoch\=281.ckpt --num_nodes_phar 10 --pdbfile ./generated/7ONS.pdb --ref_ligand A:1101
