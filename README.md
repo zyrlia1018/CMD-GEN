@@ -33,7 +33,7 @@ To set up the required environment for running the project, follow the steps bel
 #### 1.Download trained weights from Zenodo : [full-atom & Ca-atom](https://https://zenodo.org/records/13841142)
 
 <div style="text-align: center;">
-  <img src="https://github.com/zyrlia1018/CMD-GEN/blob/main/DiffPhar/env/weight.jpg" alt="TOC" width="300" height="240">
+  <img src="https://github.com/zyrlia1018/CMD-GEN/blob/main/DiffPhar/env/weight.jpg" alt="TOC" width="300" height="100">
 </div>
 
 #### 2. Generate Pharmacophore Points
@@ -68,7 +68,7 @@ n_clusters = 7  # You can try values like 5, 6, or 7
 #### 1.Download trained weights from Zenodo : [checkpoints/](https://https://zenodo.org/records/13841142)
 
 <div style="text-align: center;">
-  <img src="https://github.com/zyrlia1018/CMD-GEN/blob/main/GCPG/env/weight2.jpg" alt="TOC" width="300" height="240">
+  <img src="https://github.com/zyrlia1018/CMD-GEN/blob/main/GCPG/env/weight2.jpg" alt="TOC" width="300" height="100">
 </div>
 
 #### 2. Generate pharmacophore and property-constrained molecules
