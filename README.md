@@ -6,9 +6,12 @@
 Through a hierarchical architecture, it decomposes **the generation of three-dimensional molecules within the pocket into sampling of coarse-grained pharmacophore points**, **generating of chemical structures**, and **alignment of conformations**, avoiding the instability issues associated with inherent in deep generative model-based generation of molecular conformations.
 
 #### TOC graphics
-<center>
+
+<div align=center>
+	<img src="https://github.com/user-attachments/assets/453a76f4-fdca-4df2-8143-65117cc91c32"/>
+</div>
 <img src="https://github.com/user-attachments/assets/453a76f4-fdca-4df2-8143-65117cc91c32" width="50%" align="center" />
-</center>
+
 ## How to use :)
 
 ### Environment Configuration
