@@ -7,9 +7,7 @@ Through a hierarchical architecture, it decomposes **the generation of three-dim
 
 #### TOC graphics
 
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/453a76f4-fdca-4df2-8143-65117cc91c32" alt="TOC" width="300" height="240">
-</div>
+![checkpoints](https://github.com/user-attachments/assets/453a76f4-fdca-4df2-8143-65117cc91c32)
 
 ## How to use :)
 
@@ -34,7 +32,9 @@ To set up the required environment for running the project, follow the steps bel
 
 #### 1.Download trained weights from Zenodo : [full-atom & Ca-atom](https://https://zenodo.org/records/13841142)
 
-![checkpoints](https://github.com/zyrlia1018/CMD-GEN/blob/main/DiffPhar/env/weight.jpg)
+<div style="text-align: center;">
+  <img src="https://github.com/zyrlia1018/CMD-GEN/blob/main/DiffPhar/env/weight.jpg" alt="TOC" width="300" height="240">
+</div>
 
 #### 2. Generate Pharmacophore Points
 
@@ -67,7 +67,9 @@ n_clusters = 7  # You can try values like 5, 6, or 7
 
 #### 1.Download trained weights from Zenodo : [checkpoints/](https://https://zenodo.org/records/13841142)
 
-![checkpoints](https://github.com/zyrlia1018/CMD-GEN/blob/main/GCPG/env/weight2.jpg)
+<div style="text-align: center;">
+  <img src="https://github.com/zyrlia1018/CMD-GEN/blob/main/GCPG/env/weight2.jpg" alt="TOC" width="300" height="240">
+</div>
 
 #### 2. Generate pharmacophore and property-constrained molecules
 
@@ -129,7 +131,7 @@ arguments:
  phar_tolerance      The degree of matching with the pharmacophore
 ```
 
-我们还提供了建议的使用方法见align.sh
+We also provide suggested usage see **align.sh** 👍
 
 ```
 #!/bin/bash
@@ -152,7 +154,24 @@ $PYTHON align_test_wrn.py \
     --input_path "$INPUT_PATH" \
     --output_dir "$OUTPUT_DIR" \
     --phar_tolerance $PHAR_TOLERANCE
-
 ```
+
+#### Inspiration for this study
+
+Thanks to those works
+
+[https://github.com/CSUBioGroup/PGMG](https://github.com/CSUBioGroup/PGMG)
+[https://github.com/arneschneuing/DiffSBDD](https://github.com/arneschneuing/DiffSBDD)
+[https://github.com/facebookresearch/fairseq](https://github.com/facebookresearch/fairseq)
+[https://github.com/biocheming/watvina](https://https://github.com/biocheming/watvina)
+[https://github.com/mhlee216/MGCVAE](https://github.com/mhlee216/MGCVAE)
+[https://github.com/pengxingang/Pocket2Mol](https://github.com/pengxingang/Pocket2Mol)
+[https://github.com/HaotianZhangAI4Science/ResGen](https://github.com/HaotianZhangAI4Science/ResGenE)
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+For commercial use, please contact [zyrlia1018@163.com](zyrlia1018@163.com).
 
 
