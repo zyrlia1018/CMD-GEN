@@ -10,7 +10,6 @@ Through a hierarchical architecture, it decomposes **the generation of three-dim
 <div align=center>
 	<img src="https://github.com/user-attachments/assets/453a76f4-fdca-4df2-8143-65117cc91c32" width="50%"/>
 </div>
-<img src="https://github.com/user-attachments/assets/453a76f4-fdca-4df2-8143-65117cc91c32" width="50%" align="center" />
 
 ## How to use :)
 
