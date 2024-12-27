@@ -162,13 +162,13 @@ $PYTHON align_test_wrn.py \
 
 Thanks to those works
 
-[https://github.com/CSUBioGroup/PGMG](https://github.com/CSUBioGroup/PGMG)
-[https://github.com/arneschneuing/DiffSBDD](https://github.com/arneschneuing/DiffSBDD)
-[https://github.com/facebookresearch/fairseq](https://github.com/facebookresearch/fairseq)
-[https://github.com/biocheming/watvina](https://https://github.com/biocheming/watvina)
-[https://github.com/mhlee216/MGCVAE](https://github.com/mhlee216/MGCVAE)
-[https://github.com/pengxingang/Pocket2Mol](https://github.com/pengxingang/Pocket2Mol)
-[https://github.com/HaotianZhangAI4Science/ResGen](https://github.com/HaotianZhangAI4Science/ResGenE)
+[PGMG](https://github.com/CSUBioGroup/PGMG)
+[DiffSBDD](https://github.com/arneschneuing/DiffSBDD)
+[fairseq](https://github.com/facebookresearch/fairseq)
+[watvina](https://https://github.com/biocheming/watvina)
+[MGCVAE](https://github.com/mhlee216/MGCVAE)
+[Pocket2Mol](https://github.com/pengxingang/Pocket2Mol)
+[ResGen](https://github.com/HaotianZhangAI4Science/ResGenE)
 
 ## License
 
