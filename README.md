@@ -7,7 +7,7 @@ Through a hierarchical architecture, it decomposes **the generation of three-dim
 
 #### TOC graphics
 
-![checkpoints](https://github.com/user-attachments/assets/453a76f4-fdca-4df2-8143-65117cc91c32)
+<img src="https://github.com/user-attachments/assets/453a76f4-fdca-4df2-8143-65117cc91c32" width="50%" />
 
 ## How to use :)
 
