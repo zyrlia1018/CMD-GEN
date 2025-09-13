@@ -33,6 +33,7 @@ To set up the required environment for running the project, follow the steps bel
 ## pocket-conditioned three-dimensional pharmacophore sampling module
 
 #### 1.Download trained weights from Zenodo : [full-atom & Ca-atom](https://https://zenodo.org/records/13841142)
+also try: https://zenodo.org/records/13841142
 
 <div style="text-align: center;">
   <img src="https://github.com/zyrlia1018/CMD-GEN/blob/main/DiffPhar/env/weight.jpg" alt="TOC" width="300" height="100">
