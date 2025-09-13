@@ -32,7 +32,7 @@ To set up the required environment for running the project, follow the steps bel
 
 ## pocket-conditioned three-dimensional pharmacophore sampling module
 
-#### 1.Download trained weights from Zenodo : [full-atom & Ca-atom](https://https://zenodo.org/records/13841142)
+#### 1.Download trained weights from Zenodo : [full-atom & Ca-atom](https://zenodo.org/records/13841142)
 also try: https://zenodo.org/records/13841142
 
 <div style="text-align: center;">
@@ -68,7 +68,7 @@ n_clusters = 7  # You can try values like 5, 6, or 7
 
 ## Gating Condition Mechanism and Pharmacophore-Based Molecular Generation Module (GCPG)
 
-#### 1.Download trained weights from Zenodo : [checkpoints/](https://https://zenodo.org/records/13841142)
+#### 1.Download trained weights from Zenodo : [checkpoints/](https://zenodo.org/records/13841142)
 
 <div style="text-align: center;">
   <img src="https://github.com/zyrlia1018/CMD-GEN/blob/main/GCPG/env/weight2.jpg" alt="TOC" width="300" height="100">
